@@ -1,0 +1,23 @@
+{
+  "name": "hbaseproject",
+  "version": "1.0.0",
+  "description": "CRUD in Node.JS and HBase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r-malon/HBaseProject.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/r-malon/HBaseProject/issues"
+  },
+  "homepage": "https://github.com/r-malon/HBaseProject#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbase": "^0.6.1"
+  }
+}
